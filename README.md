@@ -1,8 +1,15 @@
 # React + Vite
+# Made by "Manohar" for the company called VRV Security chennai based company.......
+gowdamanohar45@gmail.com
+<Done by the date 21-Nov-2024> 
+<Added to repository by date 22-Nov-2024>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- # Vite React Project with JSON Mock API
 
-Currently, two official plugins are available:
+## How to Run the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Install dependencies:
+   ```bash
+   npm install
+
+   
