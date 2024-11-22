@@ -1,10 +1,10 @@
 # React + Vite
 # Made by "Manohar" for the company called VRV Security chennai based company.......
 #Preview the site i have already deployed by clicking below.
-  [Admin-page](https://manohar-gowda.github.io/vite-deploy/)
-gowdamanohar45@gmail.com
-<Done by the date 21-Nov-2024> 
-<Added to repository by date 22-Nov-2024>
+##https://manohar-gowda.github.io/vite-deploy/
+##gowdamanohar45@gmail.com
+#<Done by the date 21-Nov-2024> 
+#<Added to repository by date 22-Nov-2024>
 
 - # Vite React Project with JSON Mock API
 
