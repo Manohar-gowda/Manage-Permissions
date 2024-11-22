@@ -7,9 +7,22 @@ gowdamanohar45@gmail.com
 - # Vite React Project with JSON Mock API
 
 ## How to Run the Project
+* Use npm install after cloning the repository to ensure dependencies are installed.
 
 1. Install dependencies:
    ```bash
    npm install
 
+2. Start the development server:
+   ```bash
+   npm run dev
+
+3. Start the JSON Mock API server:
+   ```
+   npx json-server --watch db.json --port 3001
+#By then  applicayion is served at port 5173 
+folllow the link 
+   ```
+   http://localhost:5173
+   
    
